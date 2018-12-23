@@ -8,6 +8,14 @@ TextureImporter:
     21300006: drift_3
     21300008: drift_4
     21300010: drift_5
+    21300012: drift_6
+    21300014: drift_7
+    21300016: drift_8
+    21300018: drift_9
+    21300020: drift_10
+    21300022: drift_11
+    21300024: drift_12
+    21300026: drift_13
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -238,6 +246,166 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e604e6988745e5449a7bf3f72c791b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1092
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c5d42dc982f545b00060347f46fdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 27
+        width: 189
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d0d9752ea01a94d9a52037644c73f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 36
+        width: 159
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b09f8c2126e7fb4894028ad67c023b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 68
+        width: 175
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f15f16c487c6046b49e40947e6d939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 92
+        width: 171
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dff379de3d2624d85431da757fed02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 65
+        width: 194
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac01df2312935f040bac128bb58e224e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift_12
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 58
+        width: 171
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ab8e4f73cb464e9903dfcfe934cfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drift_13
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 59
+        width: 156
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eaa484583c4324b869942f37228b32
       vertices: []
       indices: 
       edges: []
